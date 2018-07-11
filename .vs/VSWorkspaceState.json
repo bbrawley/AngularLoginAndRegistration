@@ -9,8 +9,8 @@
     "\\src\\app\\login",
     "\\src\\app\\_guards",
     "\\src\\app\\_services",
-    "\\src\\assets",
-    "\\src\\environments"
+    "\\src\\assets"
   ],
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
